@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-user-profiles",
+  "versions": [
+    {
+      "commit": "5e0079532e056b29b7546864ad769facefe6a4f2",
+      "tag": "0.1.0a10",
+      "parsed_at": "2026-10-12T16:58:25.438938+00:00"
+    }
+  ]
+}
